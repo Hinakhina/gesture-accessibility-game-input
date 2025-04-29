@@ -17,11 +17,29 @@ This project provides a real-time hand gesture recognition system that emulates 
 - Maps hand gestures to keyboard keys (e.g., ↑ ↓ → ←)
 - Compatible with any game that uses keyboard input
 - Supports gesture-to-command mapping:
-  - ✋ Open palm → Jump / Up 
+  - ✋ Open palm → Up 
   - ✊ Closed fist → Down 
   - ☝️ Index finger → Left
   - ✌️ Index + Middle → Right 
-  - 🤙 Pinky → Exit / Quit
+  - 🤙 Pinky → Space
+    
+ ---
+
+▶️ How to Use
+1. Launch your game or application that uses keyboard controls.
+
+2. Run the program: gestureToKeyboard.py
+
+3. A webcam window will open and begin tracking your hand gestures in real time.
+
+4. Use the predefined gestures to control your game character (see from feature -> gesture-to-comand above).
+⚠️ Important: After launching the program, click on your game window to make sure it is in focus.
+The system emulates keyboard input — so gestures will only control the game if the game window is active.
+Avoid clicking back on the terminal, camera preview, or any other window.
+
+5. To exit the program:
+- Press the Q key on your keyboard
+
 
 ---
 
