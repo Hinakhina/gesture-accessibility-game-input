@@ -2,7 +2,7 @@
 A vision-based hand gesture recognition system for real-time game control, designed as an accessible input alternative for players with motor and speech impairments and built with OpenCV, MediaPipe, and PyAutoGUI.
 
 
-# Vision-Based Hand Gesture Recognition for Game Accessibilit
+# Vision-Based Hand Gesture Recognition for Game Accessibility
 
 This project provides a real-time hand gesture recognition system that emulates keyboard input using only a standard webcam. It is designed to improve accessibility for players with motor and speech disabilities, allowing them to control video games without physical controllers or voice commands.
 
