@@ -22,6 +22,7 @@ This project provides a real-time hand gesture recognition system that emulates 
   - ☝️ Index finger → Left
   - ✌️ Index + Middle → Right 
   - 🤙 Pinky → Space
+
     ⚠️ Make sure your palm is facing the camera when performing any gesture.
     The system may not recognize gestures correctly if the hand is tilted or facing sideways.
  ---
