@@ -53,7 +53,7 @@ https://youtu.be/fdoTDal46xY
 https://akhina.itch.io/tebak-gambar
 
 ## System Requirements
-- Python 3.8–3.10
+- Python 3.8–3.11
 - Webcam (min. 360p)
 - Mid-range PC or laptop
 - Game or app that accepts keyboard input
