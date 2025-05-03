@@ -17,11 +17,12 @@ This project provides a real-time hand gesture recognition system that emulates 
 - Maps hand gestures to keyboard keys (e.g., ↑ ↓ → ←)
 - Compatible with any game that uses keyboard input
 - Supports gesture-to-command mapping:
-  - ✋ Open palm → Up 
-  - ✊ Closed fist → Down 
-  - ☝️ Index finger → Left
-  - ✌️ Index + Middle → Right 
-  - 🤙 Pinky → Space
+  - UpArrow key → 4 fingers or 5 fingers up
+  - DownArrow key → 0 finger or thumbs up
+  - LeftArrow key → 1 fingers up but not thumbs nor middle finger
+  - RightArrow key → 2 fingers up
+  - Space key → 3 fingers up
+  - Close camera and exit program → press q on keyboard
 
     ⚠️ Make sure your palm is facing the camera when performing any gesture.
     The system may not recognize gestures correctly if the hand is tilted or facing sideways.
@@ -39,8 +40,8 @@ This project provides a real-time hand gesture recognition system that emulates 
 The system emulates keyboard input — so gestures will only control the game if the game window is active.
 Avoid clicking back on the terminal, camera preview, or any other window.
 
-5. To exit the program:
-- Press the Q key on your keyboard
+5. To close camera and exit the program:
+- Press the Q key on your keyboard (make run it focus on the camera window)
 
 
 ---
