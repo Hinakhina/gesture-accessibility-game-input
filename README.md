@@ -47,7 +47,10 @@ Avoid clicking back on the terminal, camera preview, or any other window.
 ---
 
 ## Demo
-[Insert Video Link]
+https://youtu.be/fdoTDal46xY
+
+## Link Itch.io
+https://akhina.itch.io/tebak-gambar
 
 ## System Requirements
 - Python 3.8–3.10
