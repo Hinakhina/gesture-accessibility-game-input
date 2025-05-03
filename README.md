@@ -19,13 +19,13 @@ This project provides a real-time hand gesture recognition system that emulates 
 - Supports gesture-to-command mapping:
   - UpArrow key → 4 fingers or 5 fingers up
   - DownArrow key → 0 finger or thumbs up
-  - LeftArrow key → 1 fingers up but not thumbs nor middle finger
+  - LeftArrow key → 1 finger up but not thumbs nor middle finger
   - RightArrow key → 2 fingers up
   - Space key → 3 fingers up
   - Close camera and exit program → press q on keyboard
 
     ⚠️ Make sure your palm is facing the camera when performing any gesture.
-    The system may not recognize gestures correctly if the hand is tilted or facing sideways.
+    The system may not recognize gestures correctly if the hand tilts or faces sideways.
  ---
 
 ▶️ How to Use
@@ -35,19 +35,19 @@ This project provides a real-time hand gesture recognition system that emulates 
 
 3. A webcam window will open and begin tracking your hand gestures in real time.
 
-4. Use the predefined gestures to control your game character (see from feature -> gesture-to-comand above).
-⚠️ Important: After launching the program, click on your game window to make sure it is in focus.
-The system emulates keyboard input — so gestures will only control the game if the game window is active.
+4. Use the predefined gestures to control your game character (see feature -> gesture-to-command above).
+⚠️ Important: After launching the program, click on your game window to ensure it is focused.
+The system emulates keyboard input, so gestures will only control the game if the game window is active.
 Avoid clicking back on the terminal, camera preview, or any other window.
 
-5. To close camera and exit the program:
-- Press the Q key on your keyboard (make run it focus on the camera window)
+5. To close the camera and exit the program:
+- Press the Q key on your keyboard (make it focus on the camera window)
 
 
 ---
 
 ## Demo
-[Insert link to YouTube demo or .gif showing the system in action]
+[Insert Video Link]
 
 ## System Requirements
 - Python 3.8–3.10
