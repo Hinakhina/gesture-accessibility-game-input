@@ -47,10 +47,13 @@ Avoid clicking back on the terminal, camera preview, or any other window.
 ---
 
 ## Demo
-[Insert Video Link]
+https://youtu.be/fdoTDal46xY
+
+## Link Itch.io
+https://akhina.itch.io/tebak-gambar
 
 ## System Requirements
-- Python 3.8–3.10
+- Python 3.8–3.11
 - Webcam (min. 360p)
 - Mid-range PC or laptop
 - Game or app that accepts keyboard input
